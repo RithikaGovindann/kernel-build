@@ -1,0 +1,1 @@
+cp -v /boot/config-6.8.0-40-generic .config
